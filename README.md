@@ -1,1 +1,9 @@
 # hfjsChapt10
+
+index.html uses funtions to print text
+
+![alt index window](index.png)
+
+shell.html plays the shell game
+
+![alt shell](shell.png)
