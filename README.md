@@ -7,3 +7,7 @@ index.html uses funtions to print text
 shell.html plays the shell game
 
 ![alt shell](shell.png)
+
+fly.html puts functions within functions
+
+![alt shell](fly.png)
