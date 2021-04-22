@@ -19,4 +19,29 @@ function compareSold(colaA, colaB) {
     }
 }
 
+function compareCalories(colaA, colaB) {
+    if (colaA.calories > colaB.calories) {
+        return 1;
+    } else if (colaA.calories === colaB.calories) {
+        return 0;
+    } else {
+        return -1;
+    }
+}
+
+function compareColor(colaA, colaB) {
+    if (colaA.color > colaB.color) {
+        return 1;
+    } else if (colaA.color === colaB.color) {
+        return 0;
+    } else {
+        return -1;
+    }
+}
+
+console.log("n////////////////Sold/////////////////n/");
 console.log(products.sort(compareSold));
+console.log("n////////////////Calories/////////////////n/");
+console.log(products.sort(compareCalories));
+console.log("n////////////////Color/////////////////n/");
+console.log(products.sort(compareColor));

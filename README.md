@@ -18,4 +18,4 @@ sort.html uses sort:
 
 cola.html also uses sort + more:
 
-![alt cola](cola.png)
+![alt cola](cola2.png)
