@@ -15,3 +15,7 @@ fly.html puts functions within functions:
 sort.html uses sort:
 
 ![alt sort](sort.png)
+
+cola.html also uses sort + more:
+
+![alt cola](cola.png)
