@@ -1,13 +1,17 @@
 # hfjsChapt10
 
-index.html uses funtions to print text
+index.html uses funtions to print text:
 
 ![alt index window](index.png)
 
-shell.html plays the shell game
+shell.html plays the shell game:
 
 ![alt shell](shell.png)
 
-fly.html puts functions within functions
+fly.html puts functions within functions:
 
-![alt shell](fly.png)
+![alt fly](fly.png)
+
+sort.html uses sort:
+
+![alt sort](sort.png)
